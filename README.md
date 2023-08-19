@@ -1,2 +1,1 @@
-# MA322
-# Scientific Computing
+# MA322 : Scientific Computing
