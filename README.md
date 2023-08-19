@@ -1,1 +1,2 @@
-# MA322_Lab
+# MA322
+# Scientific Computing
